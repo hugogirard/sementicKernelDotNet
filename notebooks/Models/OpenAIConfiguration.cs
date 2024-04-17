@@ -1,0 +1,1 @@
+public record OpenAiConfiguration(string openAiKey,string openAiEndpoint);
