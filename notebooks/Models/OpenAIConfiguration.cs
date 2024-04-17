@@ -1,1 +1,1 @@
-public record OpenAiConfiguration(string openAiKey,string openAiEndpoint);
+public record OpenAiConfiguration(string OpenAiKey,string OpenAiEndpoint,string DeploymentName);
